@@ -1,8 +1,8 @@
-# 🧠 Employee Salary Prediction using Machine Learning
+# Employee Salary Prediction using Machine Learning
 
 This project uses regression techniques in machine learning to predict employee salaries based on features such as age, gender, education level, job title, and years of experience.
 
-## 📌 Project Objective
+## Project Objective
 
 To build an ML model that accurately predicts employee salary to assist HR and companies in making data-driven compensation decisions.
 
