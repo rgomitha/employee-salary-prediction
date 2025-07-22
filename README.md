@@ -23,7 +23,6 @@ To build an ML model that accurately predicts employee salary to assist HR and c
 - Python
 - Scikit-learn
 - Pandas, NumPy
-- Matplotlib, Seaborn
 - Streamlit (for web interface)
 - Google Colab / Jupyter Notebook
 
